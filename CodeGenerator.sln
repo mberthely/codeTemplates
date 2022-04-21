@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGeneratorApp", "ConsoleApp1\CodeGeneratorApp.csproj", "{192B1C6C-501F-463C-B2A5-66D9366C3060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ui code generator", "ui code generator\ui code generator.csproj", "{05F621D8-919B-49B8-A283-B0EE308C602B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192B1C6C-501F-463C-B2A5-66D9366C3060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192B1C6C-501F-463C-B2A5-66D9366C3060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192B1C6C-501F-463C-B2A5-66D9366C3060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192B1C6C-501F-463C-B2A5-66D9366C3060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F621D8-919B-49B8-A283-B0EE308C602B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F621D8-919B-49B8-A283-B0EE308C602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F621D8-919B-49B8-A283-B0EE308C602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F621D8-919B-49B8-A283-B0EE308C602B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A507932A-1332-4AFF-B384-CE2FE4256972}
+	EndGlobalSection
+EndGlobal

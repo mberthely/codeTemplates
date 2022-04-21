@@ -80,9 +80,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp1\CodeGeneratorApp.csproj">
+    <ProjectReference Include="..\ConsoleApp1\CodeTemplates.csproj">
       <Project>{192b1c6c-501f-463c-b2a5-66d9366c3060}</Project>
-      <Name>CodeGeneratorApp</Name>
+      <Name>CodeTemplates</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
